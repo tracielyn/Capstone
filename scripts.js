@@ -7,4 +7,3 @@ form.addEventListener("submit", function(event) {
   console.log("Submitteddddddd");
 });
 
-console.log(form);
